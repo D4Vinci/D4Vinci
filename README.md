@@ -19,15 +19,14 @@
   <a href="mailto:karim.shoair@pm.me">
     <img src="https://img.shields.io/badge/karim.shoair@pm.me-0078D4?style=for-the-badge&logo=Protonmail&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  
+</p>
+
   <a href="https://github.com/D4Vinci">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=D4Vinci&count_private=true&show_icons=true&theme=chartreuse-dark" />
   </a>
   <a href="https://github.com/D4Vinci">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4Vinci&layout=compact&theme=chartreuse-dark&langs_count=8" />
   </a>
-  
-</p>
 
 I am a developer, web designer, hacker-wannabe, and a lot of things in between. You can define me as a computer sciences enthusiast. I love to see how things work in depth, make things, break things and make things that break things.😄
 
