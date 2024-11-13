@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://twitter.com/D4Vinci1">
-    <img src="https://img.shields.io/twitter/follow/D4Vinci1?style=for-the-badge&label=%40D4Vinci1&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
+    <img src="https://img.shields.io/badge/D4Vinci-blue?style=for-the-badge&logo=x&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="https://www.linkedin.com/in/karim-shoair/">
     <img src="https://img.shields.io/badge/-Karim%20Shoair-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
@@ -12,6 +12,9 @@
   </a>
   <a href="https://medium.com/@d4vinci">
     <img src="https://img.shields.io/badge/d4vinci-0078D4?style=for-the-badge&logo=Medium&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+  <a href="https://www.threads.net/@karim_shoair">
+    <img src="https://img.shields.io/badge/karim-shoair?style=for-the-badge&logo=threads&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="https://www.hackthebox.eu/profile/59616">
     <img src="https://img.shields.io/badge/d4vinci-0078D4?style=for-the-badge&logo=Hackthebox&logoColor=00AEFF&labelColor=black&color=black">
@@ -30,10 +33,12 @@
 
 
 <br>
-I am a developer, web designer, hacker-wannabe, and many things in between. You can define me as a computer science enthusiast. I love to see how things work in-depth, make things, break things, and make things that break things.😄
+
+I code in many low and high-level languages and am a Computer Science/Information Security enthusiast. I love to see how things work in-depth, make things, break things, and make things that break things.
+
+I developed many hacking-related tools/frameworks, but in the last couple of years, I have become more interested in Computer Science generally, and web-scraping specifically.
 
 I enjoy gaming, cinematography, and reading novels in my free time.
-
 
 <!--
 **D4Vinci/D4Vinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
