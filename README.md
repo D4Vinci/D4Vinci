@@ -24,18 +24,18 @@
   </a>
   <br><br>
   <a href="https://github.com/D4Vinci">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=D4Vinci&count_private=true&show_icons=true&theme=github_dark_dimmed" />
+  <img align="center" src="./profile/stats.svg" />
   </a>
   <a href="https://github.com/D4Vinci">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4Vinci&layout=compact&theme=github_dark_dimmed&langs_count=8" />
+    <img align="center" src="./profile/top-langs.svg" />
   </a>
 </p>
 
 
 <br>
 
-I'm a Software Developer with a Bachelor's degree in CS and 10+ years of experience. I code in many low/high-level languages and am a Computer Science and Information Security enthusiast. I love to investigate how things work in-depth, make things, break things, and make things that break things.
+I'm a Software Developer with a Bachelor's degree in CS and 10+ years of experience. I am an enthusiast for Computer Science and Information Security. I love to investigate how things work in-depth, make things, break things, and make things that break things.
 
-I'm one of the top 3% freelancers on Upwork (Top-rated Plus) and the author of several Open-Source projects, which you can find on my GitHub profile. Most of them are hacking-related tools/frameworks, but in the last couple of years, I have become more interested in Computer Science, specifically web scraping but you will still find me making projects for many different fields.
+I'm one of the top 3% freelancers on Upwork (Top-rated Plus) and the author of several Open-Source projects, which you can find on my GitHub profile. Most of them are hacking-related tools/frameworks, but over the last couple of years, I have become more interested in Computer Science, and currently in Web Scraping. You will still find me working on projects across many different fields.
 
 I enjoy gaming, cinematography, and reading novels in my free time.
