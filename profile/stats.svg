@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Karim shoair's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 58547, Total Commits  (last year) : 923, Total PRs: 58, Total Issues: 26, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 58745, Total Commits  (last year) : 923, Total PRs: 58, Total Issues: 26, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 41.84749128584115;
+        stroke-dashoffset: 41.84714140590411;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >58.5k</text>
+      >58.7k</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
